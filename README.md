@@ -1,2 +1,2 @@
-# chapter_2_cpp
+# chapter2_cpp
 Some solved exercises for C++ beginners
